@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p> Reasele Pipeline Develop - Branchs Develop. </p>
+        <p> Branchs Develop. </p>
       </header>
     </div>
   );
